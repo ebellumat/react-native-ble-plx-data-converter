@@ -1,10 +1,9 @@
 {
   "name": "ble-data-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A helper to convert your command to send via react-native-ble-plx",
   "main": "index.js",
   "author": "Erasmo Bellumat",
   "license": "MIT",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
