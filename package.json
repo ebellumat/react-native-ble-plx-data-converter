@@ -1,9 +1,18 @@
 {
   "name": "ble-data-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A helper to convert your command to send via react-native-ble-plx",
   "main": "index.js",
   "author": "Erasmo Bellumat",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ebellumat/react-native-ble-plx-data-converter.git"
+  },
+  "keywords": [
+    "bluetooth",
+    "react-native",
+    "ble"
+  ]
 }
