@@ -7,7 +7,7 @@ Send data with react-native-ble-plx could be trick, so i decided to create this 
 
 # how to?
 ```javascript
-import { convertToBytes } from 'ble-data-converter';
+import { convertToBytes } from './ble-data-converter';
 
 const command = convertToBytes('yourStringBluetoothCommand');
 
