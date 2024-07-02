@@ -3,7 +3,7 @@ A helper to convert data to bytes to send through https://github.com/Polidea/rea
 
 # why?
 
-Send data with react-native-ble-plx could be trick, so i decided to create this helper to send commands with Bluetooth LE more easier.
+Send data with react-native-ble-plx could be trick, so I decided to create this helper to send commands with Bluetooth LE more easier.
 
 # how to?
 ```javascript
